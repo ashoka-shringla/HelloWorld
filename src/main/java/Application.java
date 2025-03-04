@@ -15,6 +15,7 @@ public class Application {
         System.out.println("Using the ec2")
 
         System.out.println("Using the ec2 once again!")
+        System.out.println("Using the ec2 once again again!")
 
         Lab hello = new Lab();
         String output = hello.sayHello();
