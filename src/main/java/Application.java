@@ -12,6 +12,7 @@ public class Application {
         System.out.println("This program will print out whatever is returned by the Lab.sayHello method.");
         System.out.println("The current lab output: ");
         System.out.println("Theia cloud IDE commit!")
+        System.out.println("Using the ec2")
 
         Lab hello = new Lab();
         String output = hello.sayHello();
