@@ -17,6 +17,8 @@ public class Application {
         System.out.println("Using the ec2 once again!")
         System.out.println("Using the ec2 once again again!")
 
+        System.out.println("locally testing with the cloud services table!")
+
         Lab hello = new Lab();
         String output = hello.sayHello();
 
