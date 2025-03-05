@@ -20,6 +20,8 @@ public class Application {
         System.out.println("locally testing with the cloud services table!")
         System.out.println("ec2 testing with the cloud services table!")
 
+
+        System.out.println("ec2 testing with the cloud services tabdsadasdle!")
         Lab hello = new Lab();
         String output = hello.sayHello();
 
