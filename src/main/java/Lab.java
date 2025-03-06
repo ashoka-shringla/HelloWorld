@@ -15,6 +15,7 @@ public class Lab {
      * @return "Hello, world!"
      */
     public String sayHello(){
+        System.out.println("ec2 testing with the cloud services table!")
         return "change me";das
     }
 }
