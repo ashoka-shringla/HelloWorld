@@ -15,5 +15,7 @@ public class Application {
         String output = hello.sayHello();
 
         System.out.println(output);
+
+        System.out.println("Testing 6:17pm EST");
     }
 }
