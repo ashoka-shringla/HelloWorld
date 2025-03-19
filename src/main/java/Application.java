@@ -16,6 +16,6 @@ public class Application {
 
         System.out.println(output);
 
-        System.out.println("Testing 6:17pm EST");
+        System.out.println("Testing 1:26pm EST");
     }
 }
