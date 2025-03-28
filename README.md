@@ -8,4 +8,5 @@ test commit 2:31 pm est
 test termination 3:13 pm est
 test termination 4:51 pm est
 test on cloud termination 5:47 pm est
+test on cloud termination 4:30 pm est friday
 testing commit autothing
