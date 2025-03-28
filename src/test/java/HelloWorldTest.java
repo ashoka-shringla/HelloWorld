@@ -18,7 +18,3 @@ public class HelloWorldTest {
         Assert.assertEquals(expected,actual);
     }
 }
-
-
-
-who doesn't love test cases
