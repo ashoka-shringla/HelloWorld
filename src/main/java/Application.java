@@ -22,5 +22,6 @@ public class Application {
         System.out.println("Testing 10:52pm EST Monday");
         System.out.println("Testing 11:08pm EST Monday");
         System.out.println("Testindg 11:09pm EST Monday");
+        System.out.println("Testindg 5:24pm EST Wednesday");
     }
 }
