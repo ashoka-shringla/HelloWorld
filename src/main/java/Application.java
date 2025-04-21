@@ -15,14 +15,5 @@ public class Application {
         String output = hello.sayHello();
 
         System.out.println(output);
-
-        System.out.println("Testing 1:26pm EST");
-        System.out.println("Testing 1:01pm EST Friday");
-        System.out.println("Testing 10:51pm EST Monday");
-        System.out.println("Testing 10:52pm EST Monday");
-        System.out.println("Testing 11:08pm EST Monday");
-        System.out.println("Testing 11:09pm EST Monday");
-        System.out.println("Testing 5:24pm EST Wednesday");
-        System.out.println("Testing 3:19pm EST Thursday");
     }
 }
